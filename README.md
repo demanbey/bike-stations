@@ -1,6 +1,6 @@
 # Montreal Bike Share Stations (Bixi)
 
-This project displays bikeshare data in Montreal using the General Bikeshare Feed Specification (GBFS) feed.
+This project displays bike share data in Montreal using the General Bikeshare Feed Specification (GBFS) feed.
 
 ## Running Instructions
 
