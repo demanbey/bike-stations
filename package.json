@@ -12,7 +12,7 @@
   "author": "Heather Demanbey",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^1.6.0",
     "concurrently": "^4.1.2",
     "cors": "^2.8.5",
     "eslint": "^6.3.0",
